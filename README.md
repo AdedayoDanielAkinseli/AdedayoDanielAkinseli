@@ -34,8 +34,8 @@ Statistical Analysis, Data Cleaning, Predictive Modeling, Data Storytelling
 - [Predicting UK House Prices](https://github.com/AdedayoDanielAkinseli/predictionusingARIMASARIMALSTM)
 - [Logistic Regression for Breast Cancer Detection](https://github.com/AdedayoDanielAkinseli/logisticregressionforbreastcancer)
 - [Multimodal IMDB Analysis with Keras](https://github.com/AdedayoDanielAkinseli/AdedayoDanielAkinseli-MultimodalIMDBAnalysiswithKeras)
-- [Customer Churn Prediction App]([https://github.com/AdedayoDanielAkinseli/DanielDataPortfolio](https://github.com/AdedayoDanielAkinseli/Customer-churn-prediction-and-using-gradio))
-- 
+- [Customer Churn Prediction App](https://github.com/AdedayoDanielAkinseli/Customer-churn-prediction-and-using-gradio.git)
+  
 
 ---
 

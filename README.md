@@ -30,11 +30,12 @@ Statistical Analysis, Data Cleaning, Predictive Modeling, Data Storytelling
 
 ## 📊 Featured Projects
 
-- [Adult Income Prediction Model](https://github.com/AdedayoDanielAkinseli/Adult-Income-Prediction-Model)
-- [ARIMA, SARIMA, LSTM Time Series Prediction](https://github.com/AdedayoDanielAkinseli/predictionusingARIMASARIMALSTM)
+- [Income Classification Using ML Models](https://github.com/AdedayoDanielAkinseli/Adult-Income-Prediction-Model)
+- [Predicting UK House Prices](https://github.com/AdedayoDanielAkinseli/predictionusingARIMASARIMALSTM)
 - [Logistic Regression for Breast Cancer Detection](https://github.com/AdedayoDanielAkinseli/logisticregressionforbreastcancer)
 - [Multimodal IMDB Analysis with Keras](https://github.com/AdedayoDanielAkinseli/AdedayoDanielAkinseli-MultimodalIMDBAnalysiswithKeras)
-- [Daniel's Data Portfolio](https://github.com/AdedayoDanielAkinseli/DanielDataPortfolio)
+- [Customer Churn Prediction App]([https://github.com/AdedayoDanielAkinseli/DanielDataPortfolio](https://github.com/AdedayoDanielAkinseli/Customer-churn-prediction-and-using-gradio))
+- 
 
 ---
 
